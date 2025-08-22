@@ -1,1 +1,1 @@
-# PhD-Projects
+PhD-Projects Repository is a collection of coding projects developed during my PhD research. Each project corresponds to a distinct research challenge, covering advanced methods in graph-based fraud detection in the face of camouflage. The repository serves as both a record of my experimental work and a resource for researchers interested in tackling similar challenges.
